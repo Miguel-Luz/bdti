@@ -1,0 +1,98 @@
+
+
+
+thead {
+
+font-weight:bold;
+
+
+}
+
+table {
+    font-size: 0.8rem;
+   
+}
+
+.btn-bar {
+    padding: 0.4em;
+    padding-right: 6em;
+    
+}
+
+.btn-bar a, .btn-bar button {
+    font-size: 0.7em !important;
+    margin : 5px;
+}
+
+
+.dot {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+.list-message-error{
+  color: red;
+  list-style-type:none;
+  padding-inline-start:0px;
+}
+
+.list-message-success{
+  color: green;
+  list-style-type:none;
+  padding-inline-start:0px;
+}
+
+.span-message-success{
+  color: green;
+}
+
+.span-message-error{
+  color:red;
+}
+
+
+/*
+ .input-container {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  
+  .icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  }
+  
+  
+  .input-field {
+    width: 100%;
+    padding: 5px;
+    outline: none;
+  }
+  
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }
+  
+ 
+  .btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 7px 7px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+ */
